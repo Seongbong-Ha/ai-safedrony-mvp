@@ -45,4 +45,19 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    // CameraX
+    implementation "androidx.camera:camera-camera2:1.1.0"
+    implementation "androidx.camera:camera-lifecycle:1.1.0"
+    implementation "androidx.camera:camera-view:1.1.0"
+
+// TensorFlow Lite
+    implementation 'org.tensorflow:tensorflow-lite:2.9.0'
+    implementation 'org.tensorflow:tensorflow-lite-support:0.4.2'
+
+// Material Components
+    implementation 'com.google.android.material:material:1.8.0'
+
+// Kotlin Coroutines (선택, UI 스레드 처리 편리)
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0"
+
 }
