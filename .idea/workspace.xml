@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bef90661-1488-4ccf-aa11-9e920fcb059c" name="Changes" comment="" />
+    <list default="true" id="b5fdb55e-6d6e-4fad-9936-29544d6b5c2d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +17,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2zFTLfqHqwOeiIQ1NW29tDrfriS" />
+  <component name="ProjectId" id="2zGcrjQeLdkDNP114zB2R7ja9KD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,17 +34,17 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "kimdongsoo",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bef90661-1488-4ccf-aa11-9e920fcb059c" name="Changes" comment="" />
-      <created>1751325767190</created>
+      <changelist id="b5fdb55e-6d6e-4fad-9936-29544d6b5c2d" name="Changes" comment="" />
+      <created>1751361051182</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1751325767190</updated>
+      <updated>1751361051182</updated>
     </task>
     <servers />
   </component>
