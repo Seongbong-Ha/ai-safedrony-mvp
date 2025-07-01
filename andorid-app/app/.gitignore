@@ -1,1 +1,56 @@
-/build
+# === Gradle ===
+/.gradle/
+/build/
+/*/build/
+
+# === Local Configuration ===
+/local.properties
+
+# === IntelliJ IDEA / Android Studio ===
+/.idea/
+/.idea/*
+
+# 팀 공유에 필요한 설정만 유지
+!.idea/inspectionProfiles
+!.idea/codeStyles
+!.idea/runConfigurations
+
+# 사용자별 환경
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/shelf/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Kotlin/Java ===
+*.iml
+
+# === NDK / CMake / CCache ===
+.cxx/
+.externalNativeBuild/
+
+# === Gradle Wrapper ===
+/gradle/
+/gradlew
+/gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+
+# === Keystore / Signing Configs (절대 커밋 금지) ===
+*.jks
+*.keystore
+**/signing.properties
+
+# === Google Services (Firebase) ===
+**/google-services.json
+
+# === Logs ===
+*.log
+
+# === Lint Reports ===
+/lint/reports/
+/lint/intermediates/
+/lint/generated/
